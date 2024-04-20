@@ -6,7 +6,7 @@
 
 ### Hi there! I'm Shadrack👋
 
-- 🔭 I’m currently working on a company website.
+- 🔭 I’m currently working on a company website💻.
 - 🌱 I’m currently learning Front-end development, AWS, AI, & ML to tackle real-world problems.
 - 👯 I’m looking to collaborate on projects that will help me learn & grow as a developer.
 - 💬 Ask me about prompt engineering & synthetic biology. Let's chat!.
